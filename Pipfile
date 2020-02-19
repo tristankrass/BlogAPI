@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-django = "*"
+django = ">=2.2.10"
 "psycopg2-binary" = "*"
 djangorestframework = "==3.8.2"
 django-rest-auth = "*"
